@@ -79,15 +79,51 @@
 # GOAL OF THIS APP
 ## Intensive Farming
 1. Weakness
-
+  1.1 High capital initial and maintenance cost
+    1.1.1 high expenses in build and maintenance cost
+  1.2 Diseases easy to spread (require high hygiene management)
+    1.2.1 manure management
+  1.3 Animal Rights
+    1.3.1 beef production industry have to deal with allegations and protests by animal rights advocates
+  1.4 Need skillful workers
+  1.5 heavy deforestations
 
 2. Opportunity
-
+  2.1 can attract investor
+  2.2 agrotourism park can be built
+  2.3 high income production
+  2.4 no local competitors
+  2.5 can create franchise
+  2.6 easy to produce new breed
 
 3. Threats
-
+  3.1 need long-term financial sources
+  3.2 high expenses
+  3.3 disease outbreak
+  3.4 high international competitor
+  3.5 price of local meat higher than the imported meat
+  3.6 rate of return for expenses slow
+    3.6.1 investors need fast rate of return
+  3.7 weather
 
 4. Problems
-
+  4.1 Diseased animals
+  4.2 Missing animals
+  4.3 Animals were not separated by different genders and ages
+  4.4 Unsystematic system management
+  4.5 Feeding ratio were not uniform
+  4.6 Inbreeding problems
+  4.7 Livestock waste causing environmental pollution
+  4.8 Huge land usage
+  4.9 Animal production were not in maximum production
+  4.10 Demand for animal production keep increasing
 
 5. Strengths
+  5.1 high-yield farming
+  5.2 Inbreeding control
+  5.3 Reduce pollution to the environment
+  5.4 protection of livestock
+    5.4.1 farmer easily supervise and monitor the land and protect his livestock from being hurt or hounded by dangerous wild animals
+    5.4.2 regulated farming
+  5.5 sustaining food supply with the demand
+  5.6 The EPA (Environment Protection Agency) has set certain rules and regulations on how livestock, pesticides, and animal manure are to be maintained
